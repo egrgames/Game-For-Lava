@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22d0c8ddeb73466f96f9fe88a3f7f1e, type: 3}
+  m_Name: SpotResourcesInfo
+  m_EditorClassIdentifier: 
+  _spreadOfTheResources: 2
+  _slowDelay: 0.3
+  _fastDelay: 0.14
+  _needeNumberOfRawRes: 10
+  _toRecieveThisNumberOfReady: 5
